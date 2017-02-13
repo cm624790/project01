@@ -29,8 +29,8 @@ h3 {
 .maintext {
   font-family: 'Questrial', sans-serif;
   line-height: 2;
+  max-width: 600px;
   padding-left: 45px;
-  padding-right: 45px;
 }
 
 
