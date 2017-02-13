@@ -29,8 +29,8 @@ h3 {
 .maintext {
   font-family: 'Questrial', sans-serif;
   line-height: 2;
-  max-width: 600px;
   padding-left: 45px;
+  max-width: 700px;
 }
 
 
@@ -110,4 +110,10 @@ img:hover {
 
 .tooltip:hover .tooltiptext {
     visibility: visible;
+}
+
+.spotify {
+  float: right;
+  padding-top: 60px;
+  padding-right: 45px;
 }
