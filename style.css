@@ -117,3 +117,95 @@ img:hover {
   padding-top: 60px;
   padding-right: 45px;
 }
+
+.box1 {
+  width: 150px;
+  height: 150px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin-left: 45px;
+  margin-right: 55px;
+  margin-top: 60px;
+}
+
+.box2 {
+  width: 150px;
+  height: 150px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin-left: 45px;
+  margin-top: 60px;
+  margin-right: 55px;
+}
+
+.box3 {
+  width: 150px;
+  height: 150px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin-left: 45px;
+  margin-top: 60px;
+}
+
+.box4 {
+  width: 100px;
+  height: 100px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.box5 {
+  width: 100px;
+  height: 100px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.box6 {
+  width: 100px;
+  height: 100px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.box7 {
+  width: 50px;
+  height: 50px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.box8 {
+  width: 50px;
+  height: 50px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.box9 {
+  width: 50px;
+  height: 50px;
+  border: solid #FFDCE1;
+  border-width: thick;
+  float: left;
+  margin: 20px;
+}
+
+.pen {
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+}
